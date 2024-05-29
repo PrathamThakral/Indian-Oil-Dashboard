@@ -45,13 +45,23 @@ Tool & Skills Used: Microsoft Power BI Service, Microsoft Excel, Extract, Transf
 I'm immensely grateful to Shapemyskills & Gulshan Kumar for their exceptional educational support and guidance. Their guidance has equipped me with the skills to harness Power BI effectively, and this project is a testament to that growth.
 
 #PowerBI 
+
 #dataanalytics 
+
 #datavisualization 
+
 #powerbi 
+
 #excel 
+
 #powerbideveloper 
+
 #powerbidashboard 
+
 #datamodeling 
+
 #datanalyst 
+
 #Datacleaning 
+
 #dataanalytics
